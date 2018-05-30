@@ -1,0 +1,9 @@
+[submodule "themes/tomorrow-theme"]
+	path = themes/tomorrow-theme
+	url = https://github.com/chriskempson/tomorrow-theme.git
+[submodule "fonts/powerline"]
+	path = fonts/powerline
+	url = https://github.com/powerline/fonts.git
+[submodule "vim/vim/bundle/Vundle.vim"]
+	path = vim/vim/bundle/Vundle.vim
+	url = https://github.com/VundleVim/Vundle.vim.git
